@@ -32,9 +32,9 @@
 
 - [Udacity - Build Native Mobile Apps with Flutter](https://udacity.com/course/build-native-mobile-apps-with-flutter--ud905) - by Google **(Free)**
 - [Udemy - Flutter & Dart - The Complete Flutter App Development Course](https://www.udemy.com/flutter-dart-the-complete-flutter-app-development-course/) - by Paulo Dichone **(Paid)**
-- [Flutter - Beginners Course](https://www.udemy.com/flutters-beginners-course/) - by Bryan Cairns **(Paid)**
-- [Flutter - Intermediate](https://www.udemy.com/flutter-intermediate/) - by Bryan Cairns **(Paid)**
-- [The Complete Flutter and Firebase Developer Course](https://www.udemy.com/flutter-development/) - by Nathan Glover  **(Paid)**
+- [Udemy - Flutter - Beginners Course](https://www.udemy.com/flutters-beginners-course/) - by Bryan Cairns **(Paid)**
+- [Udemy - Flutter - Intermediate](https://www.udemy.com/flutter-intermediate/) - by Bryan Cairns **(Paid)**
+- [Udemy - The Complete Flutter and Firebase Developer Course](https://www.udemy.com/flutter-development/) - by Nathan Glover  **(Paid)**
 
 
 ## License
