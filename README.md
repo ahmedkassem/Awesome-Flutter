@@ -10,7 +10,7 @@
 
 # Content
 
-## Videos
+## Video Tutorials
 
 ### Youtube Playlists
 
